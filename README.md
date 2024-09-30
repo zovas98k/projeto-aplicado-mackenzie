@@ -1,5 +1,5 @@
-# projeto-aplicado-mackenzie
-Projeto aplicado - 2 semeste 2024 - Curso Ciência de Dados
+# projeto-aplicado-mackenzie - Bruno Zovaro
+Projeto aplicado - 2 semestre 2024 - Curso Ciência de Dados
 
 📊 DATASET : https://www.kaggle.com/datasets/kanchana1990/data-science-and-analytics-jobs-in-australia:dart
 
